@@ -1,0 +1,57 @@
+h1{
+    color:black; 
+    font-size: 14pt; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font: bold;
+    text-transform: uppercase;
+    line-height: 50%;
+}
+h2{
+    color: black;
+    font-size: 8.5pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* text-align: left; */
+    font: bold;
+    text-transform: uppercase;
+    line-height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    color: black;
+    font-size: 8.5pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font: bold;
+    line-height: 50%;
+    /* text-transform: capitalize; */
+}
+h4{
+    color: black;
+    font-size: 8.5pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+    display: flex;
+    justify-content: space-between;
+    line-height: 10%;
+}
+p{
+    color: black;
+    font-size: 8.5pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    /* float: left; */
+}
+ul{
+    /* list-style:circle; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8.5pt;
+    text-align: left;
+}
+/* p2{
+
+} */
+/* hr{
+
+} */
